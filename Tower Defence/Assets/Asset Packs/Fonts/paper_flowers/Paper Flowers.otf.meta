@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92848fe0d3f3ea3448f2b25ec1e48911
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Paper Flowers
+  fontNames:
+  - Paper Flowers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35ee7c4827f4bf54fb01463d6246cb69, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
